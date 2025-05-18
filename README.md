@@ -8,7 +8,7 @@ Vetra is an AI-powered marketing automation platform that transforms your market
 
 ## 🔗 Live Preview
 
-Check out the live demo of caps.ai here: [Live Preview](https://vetra-platform.vercel.app)
+Check out the live demo here: [Live Preview](https://vetra-platform.vercel.app)
 
 ## 💻 Tech Stack
 
