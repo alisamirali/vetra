@@ -47,14 +47,6 @@ Check out the live demo of caps.ai here: [Live Preview](https://vetra-platform.v
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🔧 Environment Variables
-
-Create a `.env` file in the root directory:
-
-```env
-NEXT_PUBLIC_APP_URL=your_app_url
-```
-
 ## 🚀 Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new) from the creators of Next.js.
