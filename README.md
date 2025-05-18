@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/9594d359-0988-4fec-b588-0dcee51168e3" alt="Vetra Logo" width="50" height="50">
-
 # 🚀 Vetra - AI Marketing Automation Platform
 
 <img src="https://github.com/user-attachments/assets/df541304-ea1c-4ebe-b6fd-2e093680314f" alt="Vetra Thumbnail">
